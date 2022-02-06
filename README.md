@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/monteiro-alexandre/ignite-reactjs-watch-me/main/.github/assets/watchme.png" />
+    <img src="https://github.com/marcoaminotto/ignite-todolist-challenge/blob/main/.github/main.png" />
     </h1>
 
 <p align="center">
